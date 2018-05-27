@@ -6,7 +6,7 @@ Provided visual assets and a game loop engine; using these tools  added a number
 the player characters and enemies to recreate the classic arcade game Frogger.
 
 How to Play GAME:
--  open the index.html
+-  open the index.html or click  https://lukaszpapuga.github.io/ClassicArcadeCloneGame/
 -  press key 1 to 5 to select the player
 -  use the arrow keys to move the player across the board. 
 -  to win level you need to reach water, but avoid colliding with the bugs.
